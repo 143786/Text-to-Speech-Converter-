@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-sizing: border-box;
+}
+
+.hero {
+  width: 100%;
+  min-height: 100vh;
+  background: linear-gradient(55deg, #5d0543, #9c911b);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
